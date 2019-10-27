@@ -1,0 +1,12 @@
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache

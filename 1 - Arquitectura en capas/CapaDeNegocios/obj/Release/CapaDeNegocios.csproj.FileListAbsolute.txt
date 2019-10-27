@@ -1,0 +1,9 @@
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\bin\Release\CapaDeNegocios.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\bin\Release\CapaDeNegocios.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\bin\Release\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\bin\Release\CapaDeDatos.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Release\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Release\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Release\CapaDeNegocios.csproj.CopyComplete
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Release\CapaDeNegocios.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Release\CapaDeNegocios.pdb

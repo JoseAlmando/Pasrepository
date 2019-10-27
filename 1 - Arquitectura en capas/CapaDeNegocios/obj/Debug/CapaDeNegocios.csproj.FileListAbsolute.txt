@@ -1,0 +1,18 @@
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\bin\Debug\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\bin\Debug\CapaDeDatos.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\JoseAlmando\Desktop\Projects\Bi\Bix\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\bin\Debug\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\bin\Debug\CapaDeDatos.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojAssemblyReference.cache
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Debug\CapaDeNegocios.csproj.CopyComplete
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb

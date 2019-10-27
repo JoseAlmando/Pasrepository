@@ -1,0 +1,5 @@
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\bin\Release\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\bin\Release\CapaDeDatos.pdb
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\obj\Release\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\obj\Release\CapaDeDatos.dll
+C:\Users\JoseAlmando\Desktop\Projects\Aplicaciones Dioris\Biblioteca - app de escritorio\CapaDeDatos\obj\Release\CapaDeDatos.pdb
