@@ -1,0 +1,19 @@
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\obj\Debug\Unit Test.csprojAssemblyReference.cache
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Unit Test.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Unit Test.pdb
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\App.exe
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\App.pdb
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\App.exe.config
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\obj\Debug\Unit Test.csproj.CopyComplete
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\obj\Debug\Unit Test.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\2 - Unit Testig\Unit Test\obj\Debug\Unit Test.pdb
