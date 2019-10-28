@@ -20,11 +20,8 @@ namespace Unit_Test
             Assert.AreEqual(resultadoRequerido, resultadoObtenido);
         }
 
-        public void Numeros_Entereos_Test()
-        {
-            resultadoObtenido = (int)2;
+      
 
-        }
     }
 
 }
