@@ -1,0 +1,11 @@
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\bin\Debug\05 - EntityFramework.exe.config
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\bin\Debug\05 - EntityFramework.exe
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\bin\Debug\05 - EntityFramework.pdb
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\obj\Debug\05 - EntityFramework.csprojAssemblyReference.cache
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\obj\Debug\05 - EntityFramework.csproj.CopyComplete
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\obj\Debug\05 - EntityFramework.exe
+C:\Users\josea\OneDrive\Escritorio\Pasantia\Pasrepository\05 - EntityFramework\05 - EntityFramework\obj\Debug\05 - EntityFramework.pdb
